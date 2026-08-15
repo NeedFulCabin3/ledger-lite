@@ -19,4 +19,4 @@ jobs:
           node-version: '20'
 
       - name: Validate JS Syntax
-        run: node -c path/to/script.js
+        run: node -c script.js
