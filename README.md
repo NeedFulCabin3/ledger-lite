@@ -1,6 +1,6 @@
 # Ledger Lite
 
-A client-side financial balance tracker built for zero-friction ledger logging. Everything runs directly in the browser using standard web APIs, keeping your financial inputs stored strictly on your local device.
+> A client-side financial balance tracker built for zero-friction ledger logging. Everything runs directly in the browser using standard web APIs, keeping your financial inputs stored strictly on your local device.
 
 ## Overview
 
