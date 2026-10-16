@@ -2,8 +2,6 @@
 
 A client-side financial balance tracker built for zero-friction ledger logging. Everything runs directly in the browser using standard web APIs, keeping your financial inputs stored strictly on your local device.
 
----
-
 ## Overview
 
 Managing daily micro-expenses often gets bogged down by heavy apps, mandatory logins, and database sync lags. `ledger-lite` removes those layers. 
